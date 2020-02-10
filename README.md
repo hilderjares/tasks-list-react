@@ -1,3 +1,2 @@
-# React app to manager tasks
+# React app to manage tasks
 
-### To-do list é o novo Hello World ? :p 
